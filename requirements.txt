@@ -1,0 +1,14 @@
+torch
+torchvision
+diffusers
+transformers
+accelerate
+datasets
+peft
+huggingface_hub
+bitsandbytes
+safetensors
+Pillow
+pandas
+numpy
+matplotlib
