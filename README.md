@@ -261,18 +261,6 @@ The generated images are intended solely for educational and research purposes.
 
 ---
 
-# 👩‍💻 Author
-
-**Jaysa Gabrielly Pitchula**
-
-Mechatronics Engineer
-
-Artificial Intelligence Research
-
-Centro Universitário de Brasília (UniCEUB)
-
----
-
 <div align="center">
 
 ⭐ If you enjoyed this project, consider giving it a star!
