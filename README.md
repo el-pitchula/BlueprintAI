@@ -38,17 +38,17 @@ The project demonstrates the complete workflow of:
 
 ---
 
-# ✨ Features
+# Features
 
-- 📡 Stable Diffusion v1.5
-- 🚀 LoRA Fine-Tuning
-- 📄 Engineering Blueprint Style
-- 🛰️ Aerospace Technical Illustrations
-- 📚 NASA Public Domain Dataset
-- 🤗 Hugging Face Diffusers
-- ☁️ Google Colab Training
-- 🧠 Prompt Conditioning
-- 🔬 Reproducible Training Pipeline
+- Stable Diffusion v1.5
+- LoRA Fine-Tuning
+- Engineering Blueprint Style
+- Aerospace Technical Illustrations
+- NASA Public Domain Dataset
+- Hugging Face Diffusers
+- Google Colab Training
+- Prompt Conditioning
+- Reproducible Training Pipeline
 
 ---
 
@@ -202,7 +202,7 @@ https://huggingface.co/JaysagABRIELLY/blueprint-aerospace-lora
 
 ---
 
-# 🚀 Installation
+# Installation
 
 Clone the repository
 
@@ -258,11 +258,3 @@ This project exclusively uses public-domain engineering illustrations.
 No copyrighted artistic styles or living artists were imitated during training.
 
 The generated images are intended solely for educational and research purposes.
-
----
-
-<div align="center">
-
-⭐ If you enjoyed this project, consider giving it a star!
-
-</div>
