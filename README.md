@@ -52,7 +52,7 @@ The project demonstrates the complete workflow of:
 
 ---
 
-# 🏗 Project Architecture
+# Project Architecture
 
 ```text
                     NASA Public Domain Images
@@ -166,7 +166,7 @@ Training was performed using the official **Hugging Face Diffusers** implementat
 
 ---
 
-# 🖼 Results
+# Results
 
 The trained LoRA successfully learned the visual characteristics of engineering blueprint illustrations, producing images with:
 
