@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 BlueprintAI
+# BlueprintAI
 
 ### Fine-Tuning of Stable Diffusion using LoRA for Aerospace Engineering Blueprint Generation
 
