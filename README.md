@@ -21,7 +21,7 @@ Developed for the course **Generative Artificial Intelligence and Multimodal Mod
 
 ---
 
-# 📖 Overview
+# Overview
 
 BlueprintAI specializes the Stable Diffusion model to generate engineering-style technical drawings inspired by aerospace documentation.
 
@@ -81,7 +81,7 @@ The project demonstrates the complete workflow of:
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```text
 BlueprintAI/
@@ -111,7 +111,7 @@ BlueprintAI/
 
 ---
 
-# 📊 Dataset
+# Dataset
 
 The dataset was manually curated using **22 technical aerospace engineering illustrations**.
 
@@ -147,7 +147,7 @@ estilo_blueprint_aeroespacial
 
 ---
 
-# ⚙️ Training Configuration
+# Training Configuration
 
 | Parameter | Value |
 |------------|------:|
@@ -218,7 +218,7 @@ pip install -r requirements.txt
 
 ---
 
-# 📦 Requirements
+# Requirements
 
 Main libraries
 
@@ -240,7 +240,7 @@ matplotlib
 
 ---
 
-# 📚 References
+# References
 
 - NASA Image Library
 - NASA Science Image Gallery
